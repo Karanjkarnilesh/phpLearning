@@ -7,5 +7,5 @@ echo  "Hello PHP";
 echo printf("Hello world");
 
 //output Hello world 1,print return value;
-echo print("Hello world"):
+echo print("Hello world");
 ?>
