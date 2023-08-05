@@ -1,9 +1,11 @@
 <?php
 for ($x = 0; $x < 10; $x++) {
-    if ($x == 4) {
-      continue;
+    if ($x <8) {
+      // echo $x;
+        }else{
+continue;
     }
-    echo "<br>";
-    echo "The number is: $x <br>";
+echo "<pre>";
+echo $x;
   }
 ?>
